@@ -1,0 +1,1010 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "BEBIDAS",
+      "icon": ""
+    },
+    {
+      "id": "2",
+      "name": "BEBIDAS S/ ALCOOL"
+    },
+    {
+      "id": "3",
+      "name": "ALIMENTOS",
+      "icon": ""
+    },
+    {
+      "id": "4",
+      "name": "PETISCOS"
+    },
+    {
+      "id": "5",
+      "name": "PRODUTOS"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "CANECA PILSEN",
+      "id_categoria": "1",
+      "preco": "9"
+    },
+    {
+      "id": "2",
+      "name": "CANECA WEIZEN",
+      "id_categoria": "1",
+      "preco": "11"
+    },
+    {
+      "id": "3",
+      "name": "CANECA IPA FORASTEIRA",
+      "id_categoria": "1",
+      "preco": "13"
+    },
+    {
+      "id": "4",
+      "name": "PINT PILSEN",
+      "id_categoria": "1",
+      "preco": "12"
+    },
+    {
+      "id": "5",
+      "name": "PINT WEIZEN",
+      "id_categoria": "1",
+      "preco": "14"
+    },
+    {
+      "id": "6",
+      "name": "PINT IPA FORASTEIRA",
+      "id_categoria": "1",
+      "preco": "16"
+    },
+    {
+      "id": "7",
+      "name": "PET PILSEN LITRO",
+      "id_categoria": "1",
+      "preco": "19"
+    },
+    {
+      "id": "8",
+      "name": "PET WEIZEN LITRO",
+      "id_categoria": "1",
+      "preco": "22"
+    },
+    {
+      "id": "9",
+      "name": "PET FORASTEIRA IPA LITRO",
+      "id_categoria": "1",
+      "preco": "26"
+    },
+    {
+      "id": "10",
+      "name": "EMBALAGEM PET 1L",
+      "id_categoria": "5",
+      "preco": "2"
+    },
+    {
+      "id": "14",
+      "name": "PILSEN LONG NECK",
+      "id_categoria": "1",
+      "preco": "8"
+    },
+    {
+      "id": "15",
+      "name": "IPA TODO DIA LONG NECK",
+      "id_categoria": "1",
+      "preco": "12"
+    },
+    {
+      "id": "16",
+      "name": "TOO MUCH GOSE LONG NECK",
+      "id_categoria": "1",
+      "preco": "15"
+    },
+    {
+      "id": "17",
+      "name": "SILVESTRE SOUR LONG NECK",
+      "id_categoria": "1",
+      "preco": "15"
+    },
+    {
+      "id": "18",
+      "name": "GARRAFA FORASTEIRA IPA",
+      "id_categoria": "1",
+      "preco": "20"
+    },
+    {
+      "id": "19",
+      "name": "GARRAFA ELDORADO PUNCH IPA",
+      "id_categoria": "1",
+      "preco": "23"
+    },
+    {
+      "id": "20",
+      "name": "GARRAFA IMPERIAL TANK IPA",
+      "id_categoria": "1",
+      "preco": "24"
+    },
+    {
+      "id": "21",
+      "name": "GARRAFA LEGIONARIA WEIZEN",
+      "id_categoria": "1",
+      "preco": "18"
+    },
+    {
+      "id": "22",
+      "name": "GARRAFA ANDARILHA OATMEAL STOUT",
+      "id_categoria": "1",
+      "preco": "19"
+    },
+    {
+      "id": "23",
+      "name": "GARRAFA AMERICAN WHEAT",
+      "id_categoria": "1",
+      "preco": "18"
+    },
+    {
+      "id": "24",
+      "name": "GARRAFA HOP LAGER",
+      "id_categoria": "1",
+      "preco": "18"
+    },
+    {
+      "id": "25",
+      "name": "GARRAFA AMBER ALE",
+      "id_categoria": "1",
+      "preco": "19"
+    },
+    {
+      "id": "30",
+      "name": "PORÇÃO BATATA RÚSTICA",
+      "id_categoria": "3",
+      "preco": "16"
+    },
+    {
+      "id": "31",
+      "name": "PORÇÃO BATATA RÚSTICA GRANDE",
+      "id_categoria": "3",
+      "preco": "26"
+    },
+    {
+      "id": "32",
+      "name": "CERVELA SALAT DELIVERY",
+      "id_categoria": "3",
+      "preco": "20"
+    },
+    {
+      "id": "33",
+      "name": "CERVELAT SALAT",
+      "id_categoria": "3",
+      "preco": "15"
+    },
+    {
+      "id": "34",
+      "name": "CROQUETE DE GORGONZOLA DELIVERY",
+      "id_categoria": "3",
+      "preco": "48"
+    },
+    {
+      "id": "35",
+      "name": "CROQUETE DE MANDIOCA E CARNE SECA DELIVERY",
+      "id_categoria": "3",
+      "preco": "48"
+    },
+    {
+      "id": "36",
+      "name": "CROQUETE GORGONZOLA",
+      "id_categoria": "3",
+      "preco": "36"
+    },
+    {
+      "id": "37",
+      "name": "CROQUETE MANDIOCA CARNE SECA",
+      "id_categoria": "3",
+      "preco": "36"
+    },
+    {
+      "id": "38",
+      "name": "PIPOCA",
+      "id_categoria": "3",
+      "preco": "15"
+    },
+    {
+      "id": "39",
+      "name": "PIPOCA DELIVERY",
+      "id_categoria": "3",
+      "preco": "20"
+    },
+    {
+      "id": "40",
+      "name": "PORÇÃO CEBOLA EMPANADA",
+      "id_categoria": "3",
+      "preco": "18"
+    },
+    {
+      "id": "136",
+      "name": "IPA ZERO LONG NECK",
+      "id_categoria": "1",
+      "preco": "16"
+    },
+    {
+      "id": "191",
+      "name": "CANECA PILSEN PROMOCAO",
+      "id_categoria": "1",
+      "preco": "7.9"
+    },
+    {
+      "id": "41",
+      "name": "AGUA COM GAS",
+      "id_categoria": "2",
+      "preco": "5"
+    },
+    {
+      "id": "42",
+      "name": "AGUA COM GAS DELIVERY",
+      "id_categoria": "2",
+      "preco": "6"
+    },
+    {
+      "id": "43",
+      "name": "AGUA SEM GAS",
+      "id_categoria": "2",
+      "preco": "4"
+    },
+    {
+      "id": "44",
+      "name": "AGUA SEM GAS DELIVERY",
+      "id_categoria": "2",
+      "preco": "6"
+    },
+    {
+      "id": "45",
+      "name": "AGUA TONICA",
+      "id_categoria": "2",
+      "preco": "5"
+    },
+    {
+      "id": "46",
+      "name": "AGUA TONICA DELIVERY",
+      "id_categoria": "2",
+      "preco": "7"
+    },
+    {
+      "id": "47",
+      "name": "AMENDOIM COM ALHO 50G",
+      "id_categoria": "4",
+      "preco": "4"
+    },
+    {
+      "id": "48",
+      "name": "AMENDOIM COM ALHO 50G DELIVERY",
+      "id_categoria": "4",
+      "preco": "6"
+    },
+    {
+      "id": "49",
+      "name": "AMENDOIM COM BACON 50G",
+      "id_categoria": "4",
+      "preco": "4"
+    },
+    {
+      "id": "50",
+      "name": "AMENDOIM COM BACON 50G DELIVERY",
+      "id_categoria": "4",
+      "preco": "6"
+    },
+    {
+      "id": "51",
+      "name": "AMENDOIM COM LIMÃO/ PIMENTA 50G",
+      "id_categoria": "4",
+      "preco": "4"
+    },
+    {
+      "id": "52",
+      "name": "AMENDOIM COM LIMÃO/ PIMENTA 50G DELIVERY",
+      "id_categoria": "4",
+      "preco": "6"
+    },
+    {
+      "id": "53",
+      "name": "AMENDOIM COM MOSTARDA E MEL 50G",
+      "id_categoria": "4",
+      "preco": "4"
+    },
+    {
+      "id": "54",
+      "name": "AMENDOIM COM MOSTARDA E MEL 50G DELIVERY",
+      "id_categoria": "4",
+      "preco": "6"
+    },
+    {
+      "id": "55",
+      "name": "AMENDOIM SALGADO 50G",
+      "id_categoria": "4",
+      "preco": "4"
+    },
+    {
+      "id": "56",
+      "name": "AMENDOIM SALGADO 50G DELIVERY",
+      "id_categoria": "4",
+      "preco": "6"
+    },
+    {
+      "id": "57",
+      "name": "BATATA LEMON PEPPER",
+      "id_categoria": "4",
+      "preco": "4.5"
+    },
+    {
+      "id": "58",
+      "name": "BATATA LEMON PEPPER DELIVERY",
+      "id_categoria": "4",
+      "preco": "6.5"
+    },
+    {
+      "id": "59",
+      "name": "BATATA MOSTARDA E MEL",
+      "id_categoria": "4",
+      "preco": "4.5"
+    },
+    {
+      "id": "60",
+      "name": "BATATA MOSTARDA E MEL DELIVERY",
+      "id_categoria": "4",
+      "preco": "6.5"
+    },
+    {
+      "id": "61",
+      "name": "BATATA TRADICIONAL",
+      "id_categoria": "4",
+      "preco": "4.5"
+    },
+    {
+      "id": "62",
+      "name": "BATATA TRADICIONAL DELIVERY",
+      "id_categoria": "4",
+      "preco": "6.5"
+    },
+    {
+      "id": "63",
+      "name": "BLACK LABEL DOSE",
+      "id_categoria": "1",
+      "preco": "25"
+    },
+    {
+      "id": "64",
+      "name": "CALDERETA 350ML",
+      "id_categoria": "5",
+      "preco": "18"
+    },
+    {
+      "id": "65",
+      "name": "CANECA 340ML",
+      "id_categoria": "5",
+      "preco": "30"
+    },
+    {
+      "id": "66",
+      "name": "CASTANHA DE CAJU 50G",
+      "id_categoria": "4",
+      "preco": "10"
+    },
+    {
+      "id": "67",
+      "name": "CASTANHA DE CAJU 50G DELIVERY",
+      "id_categoria": "4",
+      "preco": "13"
+    },
+    {
+      "id": "68",
+      "name": "CITRUS SCHWEEPPES",
+      "id_categoria": "2",
+      "preco": "5"
+    },
+    {
+      "id": "69",
+      "name": "COCA COLA 250ML",
+      "id_categoria": "2",
+      "preco": "5"
+    },
+    {
+      "id": "70",
+      "name": "COCA COLA 250ML DELIVERY",
+      "id_categoria": "2",
+      "preco": "7"
+    },
+    {
+      "id": "71",
+      "name": "COCA COLA ZERO 250ML",
+      "id_categoria": "2",
+      "preco": "5"
+    },
+    {
+      "id": "72",
+      "name": "COCA COLA ZERO 250ML DELIVERY",
+      "id_categoria": "2",
+      "preco": "7"
+    },
+    {
+      "id": "73",
+      "name": "DOSE DE GIN 50ML",
+      "id_categoria": "1",
+      "preco": "15"
+    },
+    {
+      "id": "74",
+      "name": "DRINK SEM  ALCOOL",
+      "id_categoria": "2",
+      "preco": "15"
+    },
+    {
+      "id": "75",
+      "name": "EMBALAGEM P/ 2 GARRAFAS",
+      "id_categoria": "1",
+      "preco": "3"
+    },
+    {
+      "id": "76",
+      "name": "EMBALAGEM P/ 3 GARRAFAS",
+      "id_categoria": "1",
+      "preco": "5"
+    },
+    {
+      "id": "77",
+      "name": "TOO MUCH GOSE LONG NECK DELIVERY",
+      "id_categoria": "1",
+      "preco": "20"
+    },
+    {
+      "id": "78",
+      "name": "GARRAFA AMBER ALE DELIVERY",
+      "id_categoria": "1",
+      "preco": "25"
+    },
+    {
+      "id": "79",
+      "name": "GARRAFA AMERICAN WHEAT DELIVERY",
+      "id_categoria": "1",
+      "preco": "24"
+    },
+    {
+      "id": "80",
+      "name": "GARRAFA ANDARILHA OATMEAL STOUT DELIVERY",
+      "id_categoria": "1",
+      "preco": "25"
+    },
+    {
+      "id": "81",
+      "name": "GARRAFA BARLEY WINE",
+      "id_categoria": "1",
+      "preco": "34"
+    },
+    {
+      "id": "82",
+      "name": "GARRAFA BARLEY WINE DELIVERY",
+      "id_categoria": "1",
+      "preco": "45"
+    },
+    {
+      "id": "83",
+      "name": "GARRAFA ELDORADO PUNCH IPA DELIVERY",
+      "id_categoria": "1",
+      "preco": "31"
+    },
+    {
+      "id": "84",
+      "name": "GARRAFA FORASTEIRA IPA DELIVERY",
+      "id_categoria": "1",
+      "preco": "27"
+    },
+    {
+      "id": "85",
+      "name": "GARRAFA GIN ORIGINAL",
+      "id_categoria": "1",
+      "preco": "110"
+    },
+    {
+      "id": "89",
+      "name": "GARRAFA HOP LAGER DELIVERY",
+      "id_categoria": "1",
+      "preco": "24"
+    },
+    {
+      "id": "90",
+      "name": "GARRAFA IMPERIAL TANK IPA DELIVERY",
+      "id_categoria": "1",
+      "preco": "32"
+    },
+    {
+      "id": "91",
+      "name": "IPA TODO DIA LONG NECK DELIVERY",
+      "id_categoria": "1",
+      "preco": "16"
+    },
+    {
+      "id": "92",
+      "name": "GARRAFA LEGIONARIA WEIZEN DELIVERY",
+      "id_categoria": "1",
+      "preco": "24"
+    },
+    {
+      "id": "93",
+      "name": "GARRAFA MONIN MACA VERDE",
+      "id_categoria": "2",
+      "preco": "0"
+    },
+    {
+      "id": "94",
+      "name": "GARRAFA MONIN MORANGO",
+      "id_categoria": "2",
+      "preco": "0"
+    },
+    {
+      "id": "95",
+      "name": "GARRAFA PILSEN 600 ML",
+      "id_categoria": "1",
+      "preco": "14"
+    },
+    {
+      "id": "96",
+      "name": "GARRAFA PILSEN 600 ML DELIVERY",
+      "id_categoria": "1",
+      "preco": "19"
+    },
+    {
+      "id": "97",
+      "name": "PILSEN LONG NECK DELIVERY",
+      "id_categoria": "1",
+      "preco": "11"
+    },
+    {
+      "id": "98",
+      "name": "SILVESTRE SOUR LONG NECK DELIVERY",
+      "id_categoria": "1",
+      "preco": "20"
+    },
+    {
+      "id": "99",
+      "name": "GARRAFAO CERAMICA 2.4L AMARELO",
+      "id_categoria": "5",
+      "preco": "150"
+    },
+    {
+      "id": "100",
+      "name": "GARRAFAO CERAMICA 2.4L BRANCO",
+      "id_categoria": "5",
+      "preco": "150"
+    },
+    {
+      "id": "101",
+      "name": "GARRAFAO CERAMICA 2.4L PRETO",
+      "id_categoria": "5",
+      "preco": "150"
+    },
+    {
+      "id": "102",
+      "name": "GARRAFAO CERAMICA 2.4L VERDE",
+      "id_categoria": "5",
+      "preco": "150"
+    },
+    {
+      "id": "103",
+      "name": "GARRAFAO VIDRO CAMPINAS 1L",
+      "id_categoria": "5",
+      "preco": "50"
+    },
+    {
+      "id": "104",
+      "name": "GARRAFAO VIDRO CAMPINAS 1L DELIVERY",
+      "id_categoria": "5",
+      "preco": "67"
+    },
+    {
+      "id": "105",
+      "name": "GIN MACA VERDE DRINK",
+      "id_categoria": "1",
+      "preco": "25"
+    },
+    {
+      "id": "106",
+      "name": "GIN MELANCIA DRINK",
+      "id_categoria": "1",
+      "preco": "25"
+    },
+    {
+      "id": "107",
+      "name": "GIN MORANGO DRINK",
+      "id_categoria": "1",
+      "preco": "25"
+    },
+    {
+      "id": "108",
+      "name": "GIN TÔNICA DRINK",
+      "id_categoria": "1",
+      "preco": "25"
+    },
+    {
+      "id": "109",
+      "name": "GIN TROPICAL DRINK",
+      "id_categoria": "1",
+      "preco": "25"
+    },
+    {
+      "id": "112",
+      "name": "HALF PINT 285ML",
+      "id_categoria": "5",
+      "preco": "15"
+    },
+    {
+      "id": "113",
+      "name": "IPA ZERO LONG NECK DELIVERY",
+      "id_categoria": "1",
+      "preco": "21"
+    },
+    {
+      "id": "114",
+      "name": "KIT FORASTEIRA COPO + GARRAFA",
+      "id_categoria": "5",
+      "preco": "50"
+    },
+    {
+      "id": "115",
+      "name": "LATA VIDENZ",
+      "id_categoria": "1",
+      "preco": "29"
+    },
+    {
+      "id": "118",
+      "name": "MILHO MOSTARDA E MEL 50G",
+      "id_categoria": "4",
+      "preco": "5.5"
+    },
+    {
+      "id": "119",
+      "name": "MILHO MOSTARDA E MEL 50G DELIVERY",
+      "id_categoria": "4",
+      "preco": "7"
+    },
+    {
+      "id": "120",
+      "name": "MIX DE SALSICHA E LINGUICA",
+      "id_categoria": "3",
+      "preco": "30"
+    },
+    {
+      "id": "121",
+      "name": "MIX DE SALSICHAS E LINGUICAS DELIVERY",
+      "id_categoria": "3",
+      "preco": "40"
+    },
+    {
+      "id": "122",
+      "name": "MIX MINI SALGADINHO 12UN",
+      "id_categoria": "3",
+      "preco": "20"
+    },
+    {
+      "id": "124",
+      "name": "MOLHO BARBECUE BBQ",
+      "id_categoria": "3",
+      "preco": "2"
+    },
+    {
+      "id": "125",
+      "name": "PÃO DE MEL",
+      "id_categoria": "3",
+      "preco": "3.99"
+    },
+    {
+      "id": "127",
+      "name": "PET FORASTEIRA IPA DELIVERY",
+      "id_categoria": "1",
+      "preco": "35"
+    },
+    {
+      "id": "129",
+      "name": "PET PILSEN DELIVERY",
+      "id_categoria": "1",
+      "preco": "25"
+    },
+    {
+      "id": "130",
+      "name": "PET WEIZEN DELIVERY",
+      "id_categoria": "1",
+      "preco": "29"
+    },
+    {
+      "id": "131",
+      "name": "PETISQUEIRA MR NUTS",
+      "id_categoria": "4",
+      "preco": "15"
+    },
+    {
+      "id": "132",
+      "name": "PETISQUEIRA MR NUTS DELIVERY",
+      "id_categoria": "4",
+      "preco": "20"
+    },
+    {
+      "id": "133",
+      "name": "PINT 473ML",
+      "id_categoria": "5",
+      "preco": "22"
+    },
+    {
+      "id": "134",
+      "name": "PRODUTO 1",
+      "id_categoria": "5",
+      "preco": "1"
+    },
+    {
+      "id": "135",
+      "name": "PROVOLONE 30G",
+      "id_categoria": "4",
+      "preco": "8"
+    },
+    {
+      "id": "137",
+      "name": "RED BULL MELANCIA",
+      "id_categoria": "2",
+      "preco": "13"
+    },
+    {
+      "id": "138",
+      "name": "RED BULL MELANCIA DELIVERY",
+      "id_categoria": "2",
+      "preco": "16"
+    },
+    {
+      "id": "139",
+      "name": "RED BULL TRADICIONAL",
+      "id_categoria": "2",
+      "preco": "13"
+    },
+    {
+      "id": "140",
+      "name": "RED BULL TRADICIONAL DELIVERY",
+      "id_categoria": "2",
+      "preco": "16"
+    },
+    {
+      "id": "141",
+      "name": "RED BULL TROPICAL",
+      "id_categoria": "2",
+      "preco": "13"
+    },
+    {
+      "id": "142",
+      "name": "RED BULL TROPICAL DELIVERY",
+      "id_categoria": "2",
+      "preco": "16"
+    },
+    {
+      "id": "143",
+      "name": "RED LABEL DOSE",
+      "id_categoria": "1",
+      "preco": "18"
+    },
+    {
+      "id": "144",
+      "name": "SPRITE FRESH LIMAO",
+      "id_categoria": "2",
+      "preco": "5"
+    },
+    {
+      "id": "146",
+      "name": "SPRITE FRESH LIMAO DELIVERY",
+      "id_categoria": "2",
+      "preco": "7"
+    },
+    {
+      "id": "147",
+      "name": "SPRITE LATA",
+      "id_categoria": "2",
+      "preco": "5"
+    },
+    {
+      "id": "148",
+      "name": "SPRITE LATA DELIVERY",
+      "id_categoria": "2",
+      "preco": "7"
+    },
+    {
+      "id": "149",
+      "name": "SUCO DEL VALLE MARACUJA",
+      "id_categoria": "2",
+      "preco": "5"
+    },
+    {
+      "id": "150",
+      "name": "SUCO DEL VALLE MARACUJA DELIVERY",
+      "id_categoria": "2",
+      "preco": "7"
+    },
+    {
+      "id": "151",
+      "name": "SUCO DEL VALLE PESSEGO",
+      "id_categoria": "2",
+      "preco": "5"
+    },
+    {
+      "id": "152",
+      "name": "SUCO DEL VALLE UVA",
+      "id_categoria": "2",
+      "preco": "5"
+    },
+    {
+      "id": "153",
+      "name": "SUCO DEL VALLE UVA DELIVER",
+      "id_categoria": "2",
+      "preco": "7"
+    },
+    {
+      "id": "154",
+      "name": "TAÇA CRISTAL GIN",
+      "id_categoria": "5",
+      "preco": "35"
+    },
+    {
+      "id": "155",
+      "name": "TAÇA ROMA 350ML",
+      "id_categoria": "5",
+      "preco": "20"
+    },
+    {
+      "id": "156",
+      "name": "TAÇA VIDRO GIN",
+      "id_categoria": "5",
+      "preco": "25"
+    }
+  ],
+  "config": [
+    {
+      "id": "1",
+      "senha_adm": "123",
+      "qtd_mesas": "14"
+    }
+  ],
+  "comandas": [
+    {
+      "id": "1",
+      "numMesa": "1",
+      "dtAbertura": "2021-11-24T09:08",
+      "dtFecha": null,
+      "quemFechou": "",
+      "temNovoConsumo": false,
+      "fechar": true
+    },
+    {
+      "id": "dfa03ff6-ecf3-4b42-a823-2a8ad517edac",
+      "dtAbertura": "2021-11-24T23:13",
+      "numMesa": "005",
+      "dtFecha": "",
+      "quemFechou": "",
+      "fechar": false,
+      "temNovoConsumo": true
+    },
+    {
+      "id": "6d19a78a-72bf-4b7d-8d55-a10422e0110e",
+      "dtAbertura": "2021-11-27T13:58",
+      "numMesa": "009",
+      "fechar": false,
+      "dtFecha": "",
+      "quemFechou": "",
+      "temNovoConsumo": false
+    }
+  ],
+  "consumo": [
+    {
+      "id": "1",
+      "id_comanda": "1",
+      "id_product": "1",
+      "name": "CANECA PILSEN",
+      "qtd": "1",
+      "vl_unit": "9",
+      "vl_total": "9.00",
+      "fechou": true
+    },
+    {
+      "id": "d277430b-8f06-4be3-9e78-b1da8dccb430",
+      "id_comanda": "1",
+      "id_product": "120",
+      "name": "MIX DE SALSICHA E LINGUICA",
+      "qtd": "1",
+      "vl_unit": "30.00",
+      "vl_total": "30.00",
+      "fechou": true
+    },
+    {
+      "id": "678319e2-da11-4077-abb3-c9ef73f32b4a",
+      "id_comanda": "7794ce67-5727-4e10-9dc1-f3f9eeb60bbe",
+      "id_product": "33",
+      "name": "CERVELAT SALAT",
+      "qtd": "1",
+      "vl_unit": "15.00",
+      "vl_total": "15.00",
+      "fechou": false
+    },
+    {
+      "id": "6ee810af-b6dd-4165-b316-434da88bd2d0",
+      "id_comanda": "20611c9e-06b0-403e-8f17-67fea838e45e",
+      "id_product": "42",
+      "name": "AGUA COM GAS DELIVERY",
+      "qtd": "1",
+      "vl_unit": "6.00",
+      "vl_total": "6.00",
+      "fechou": false
+    },
+    {
+      "id": "aaf1850b-18ae-4964-839f-58985f4ac0ae",
+      "id_comanda": "20611c9e-06b0-403e-8f17-67fea838e45e",
+      "id_product": "42",
+      "name": "AGUA COM GAS DELIVERY",
+      "qtd": "1",
+      "vl_unit": "6.00",
+      "vl_total": "6.00",
+      "fechou": false
+    },
+    {
+      "id": "151da7b8-e809-4dea-a171-a36277fe4ce1",
+      "id_comanda": "20611c9e-06b0-403e-8f17-67fea838e45e",
+      "id_product": "44",
+      "name": "AGUA SEM GAS DELIVERY",
+      "qtd": "1",
+      "vl_unit": "6.00",
+      "vl_total": "6.00",
+      "fechou": false
+    },
+    {
+      "id": "035fd1f8-1cc9-41e8-9cbd-a7fa6faa0861",
+      "id_comanda": "bd2647aa-55d2-4dac-a1d9-04828a3d9430",
+      "id_product": "45",
+      "name": "AGUA TONICA",
+      "qtd": "1",
+      "vl_unit": "5.00",
+      "vl_total": "5.00",
+      "fechou": false
+    },
+    {
+      "id": "3f643129-7417-43b9-ac8d-827c4ed502db",
+      "id_comanda": "5eb659ff-df14-41cb-a90c-09d2cf8b49ca",
+      "id_product": "44",
+      "name": "AGUA SEM GAS DELIVERY",
+      "qtd": "1",
+      "vl_unit": "6.00",
+      "vl_total": "6.00",
+      "fechou": false
+    },
+    {
+      "id": "ebc98f71-d1bd-449a-bea0-9e74c3703a3c",
+      "id_comanda": "4eeb7196-0732-44f1-bbab-2450aa4eb871",
+      "id_product": "44",
+      "name": "AGUA SEM GAS DELIVERY",
+      "qtd": "1",
+      "vl_unit": "6.00",
+      "vl_total": "6.00",
+      "fechou": false
+    },
+    {
+      "id": "f8549dcb-4d75-46cf-8c4e-6026ca16c1ce",
+      "id_comanda": "f2a80c67-e479-4eb3-8842-4c333edc9493",
+      "id_product": "43",
+      "name": "AGUA SEM GAS",
+      "qtd": "1",
+      "vl_unit": "4.00",
+      "vl_total": "4.00",
+      "fechou": false
+    },
+    {
+      "id": "e7a344b6-a395-40a7-8ec5-9dbcb3fd9d54",
+      "id_comanda": "6d19a78a-72bf-4b7d-8d55-a10422e0110e",
+      "id_product": "44",
+      "name": "AGUA SEM GAS DELIVERY",
+      "qtd": "2",
+      "vl_unit": "6.00",
+      "vl_total": "12.00",
+      "fechou": true
+    }
+  ]
+}
