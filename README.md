@@ -32,7 +32,7 @@ Esta versão armazena os dados em uma API fake (Json-Server), mas tem outra vers
 * Acesso à API através do <ins>Axios</ins>
 
 ## :camera_flash: Screenshots
-![](https://github.com/luiizsilverio/app-beer-json-server/blob/main/assets/app-beer.gif)
+![](https://github.com/luiizsilverio/app-beer-json-server/blob/main/src/assets/app-beer.gif)
 
 ## :car: Iniciando o projeto
 * Baixe e instale o <ins>ExpoGo</ins> no dispositivo (celular ou emulador)
