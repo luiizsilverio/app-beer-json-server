@@ -23,9 +23,9 @@ Esta versão armazena os dados em uma API fake (Json-Server), mas tem a versão 
 ## :hammer_and_wrench: Tecnologias
 * <ins>React Native</ins>
 * <ins>Typescript</ins>
-* <ins>Estilização dos componentes com <ins>Styled-Components</ins>
+* Estilização dos componentes com <ins>Styled-Components</ins>
 * <ins>Expo</ins>: componentes de fonte, ícones, status-bar etc.
-* API falke com <ins>JSON-Server</ins>
+* API fake com <ins>JSON-Server</ins>
 * Controle e validação de formulários com <ins>Formik</ins> e <ins>Yup</ins>
 * Animação com <ins>Lottie-react-native</ins>
 * Rotas com <ins>React-navigation/native</ins>
