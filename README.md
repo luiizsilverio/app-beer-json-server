@@ -17,8 +17,8 @@
 Aplicação desenvolvida em React Native e Typescript para controlar a ocupação das mesas de um bar ou restaurante.<br />
 Permite lançar o consumo dos clientes, fechar a conta, cadastrar produtos e categorias.<br />
 Controle simples de acesso, por meio de uma senha de administrador, que dá acesso à tela de fechamento e aos cadastros.<br />
-Desenvolvi esta aplicação sozinho, do zero, sem acompanhar aula ou maratona.<br />
-Esta versão armazena os dados em uma API fake (Json-Server), mas tem a versão definitiva que acessa uma [API externa](https://github.com/luiizsilverio/beer-api), desenvolvida em Node, que utiliza banco de dados SQLite.<br />
+Desenvolvi esta aplicação sozinho, do zero, baseado apenas em minhas anotações.<br />
+Esta versão armazena os dados em uma API fake (Json-Server), mas tem outra versão, a definitiva, que acessa uma [API externa](https://github.com/luiizsilverio/beer-api), desenvolvida em Node, que utiliza banco de dados SQLite.<br />
 
 ## :hammer_and_wrench: Tecnologias
 * <ins>React Native</ins>
