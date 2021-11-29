@@ -33,6 +33,10 @@ Esta versão armazena os dados em uma API fake (Json-Server), mas tem outra vers
 
 ## :camera_flash: Screenshots
 ![](https://github.com/luiizsilverio/app-beer-json-server/blob/main/src/assets/app-beer.gif)
+![](https://github.com/luiizsilverio/app-beer-json-server/blob/main/src/assets/app-beer-tela-1.png)
+![](https://github.com/luiizsilverio/app-beer-json-server/blob/main/src/assets/app-beer-tela-2.png)
+![](https://github.com/luiizsilverio/app-beer-json-server/blob/main/src/assets/app-beer-tela-3.png)
+
 
 ## :car: Iniciando o projeto
 * Baixe e instale o <ins>ExpoGo</ins> no dispositivo (celular ou emulador)
