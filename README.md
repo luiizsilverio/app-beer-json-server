@@ -14,11 +14,11 @@
 * [Contato](#email-contato)
 
 ## Sobre o projeto
-Aplicação desenvolvida em React Native e Typescript para controlar a ocupação das mesas de um bar ou restaurante.<br />
+Primeira aplicação mobile 100% desenvolvida por mim, do zero, sem acompanhar vídeo ou aula, baseado apenas em minhas anotações, documentação e Google.<br />
+Desenvolvida em React Native e Typescript, controla a ocupação das mesas de um bar ou restaurante.<br />
 Permite lançar o consumo dos clientes, fechar a conta, cadastrar produtos e categorias.<br />
 Controle simples de acesso, por meio de uma senha de administrador, que dá acesso à tela de fechamento e aos cadastros.<br />
-Desenvolvi esta aplicação sozinho, do zero, baseado apenas em minhas anotações.<br />
-Esta versão armazena os dados em uma API fake (Json-Server), mas tem outra versão, a definitiva, que acessa uma [API externa](https://github.com/luiizsilverio/beer-api), desenvolvida em Node, que utiliza banco de dados SQLite.<br />
+Esta versão armazena os dados em uma API fake (Json-Server), mas tem outra versão, mais elaborada, com mais funcionalidades, tais como transferência de mesa, cadastro de complementos etc. Essa versão acessa uma [API externa](https://github.com/luiizsilverio/beer-api), desenvolvida por mim em Node, que utiliza banco de dados SQLite.<br />
 
 ## :hammer_and_wrench: Tecnologias
 * <ins>React Native</ins>
